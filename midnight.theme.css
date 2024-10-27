@@ -1,13 +1,13 @@
 /**
- * @name midnight
- * @description A dark, rounded discord theme.
- * @author refact0r
+ * @name NemoOriginal
+ * @description Real Nemo o melhor
+ * @author realbeeh
  * @version 1.6.2
- * @invite nz87hXyvcy
- * @website https://github.com/refact0r/midnight-discord
- * @source https://github.com/refact0r/midnight-discord/blob/master/midnight.theme.css
- * @authorId 508863359777505290
- * @authorLink https://www.refact0r.dev
+ * @invite 2vpK7UPzyB
+ * @website https://www.instagram.com/realbeeh/
+ * @source https://www.instagram.com/realbeeh/
+ * @authorId 1037185561422737468
+ * @authorLink https://www.instagram.com/realbeeh/
 */
 
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
@@ -20,22 +20,22 @@
 	--font: 'figtree';
 
 	/* top left corner text */
-	--corner-text: 'Midnight';
+	--corner-text: 'Real Nemo 🔮';
 
 	/* color of status indicators and window controls */
-	--online-indicator: var(--accent-2); /* change to #23a55a for default green */
+	--online-indicator: var(--accent-2); /* change to #8b3cfa for default green */
 	--dnd-indicator: hsl(340, 60%, 60%); /* change to #f13f43 for default red */
 	--idle-indicator: hsl(50, 60%, 60%); /* change to #f0b232 for default yellow */
 	--streaming-indicator: hsl(260, 60%, 60%); /* change to #593695 for default purple */
 
 	/* accent colors */
-	--accent-1: hsl(190, 70%, 60%); /* links */
-	--accent-2: hsl(190, 70%, 48%); /* general unread/mention elements */
-	--accent-3: hsl(190, 70%, 42%); /* accent buttons */
-	--accent-4: hsl(190, 70%, 36%); /* accent buttons when hovered */
-	--accent-5: hsl(190, 70%, 30%); /* accent buttons when clicked */
-	--mention: hsla(190, 80%, 52%, 0.1); /* mentions & mention messages */
-	--mention-hover: hsla(190, 80%, 52%, 0.05); /* mentions & mention messages when hovered */
+	--accent-1: hsl(280, 70%, 60%); /* links */
+	--accent-2: hsl(290, 70%, 48%); /* general unread/mention elements */
+	--accent-3: hsl(280, 70%, 42%); /* accent buttons */
+	--accent-4: hsl(290, 70%, 36%); /* accent buttons when hovered */
+	--accent-5: hsl(290, 70%, 30%); /* accent buttons when clicked */
+	--mention: hsla(290, 80%, 52%, 0.1); /* mentions & mention messages */
+	--mention-hover: hsla(290, 80%, 52%, 0.05); /* mentions & mention messages when hovered */
 
 	/* text colors */
 	--text-0: white; /* text on colored elements */
